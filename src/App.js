@@ -1,5 +1,5 @@
-import logo from './logo.svg';
-import './App.css';
+import logo from "./logo.svg";
+import "./App.css";
 
 function App() {
   return (
@@ -7,8 +7,8 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-         New portfolio project to be deployed in netlify
-         
+          New portfolio project to be deployed in netlify this is the new
+          changes.
         </p>
         <a
           className="App-link"
