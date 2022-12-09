@@ -1,7 +1,7 @@
 import React from "react";
 import { Link, NavLink } from "react-router-dom";
 
-import { FaHome, FaUser, FaFacebookSquare, FaLinkedin } from "react-icons/fa";
+import { FaHome, FaUser } from "react-icons/fa";
 import { MdContactPhone } from "react-icons/md";
 import "./index.scss";
 import logo from "../../Uploads/pabin_limbu.png";
