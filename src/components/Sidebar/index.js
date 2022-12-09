@@ -40,17 +40,17 @@ function Sidebar() {
 
       <ul>
         <li>
-          <a target="_blank" href="https://www.facebook.com/changsu.pabin">
+          {/* <a target="_blank" href="https://www.facebook.com/changsu.pabin">
             <FaFacebookSquare color="white" />
-          </a>
+          </a> */}
         </li>
         <li>
-          <a
+          {/* <a
             target="_blank"
             href="https://www.linkedin.com/in/pabin-limbu-b47ab4212"
           >
             <FaLinkedin color="white" />
-          </a>
+          </a> */}
         </li>
       </ul>
     </div>
